@@ -1,6 +1,6 @@
 # Java  Projects
 
-This repository contains basic Java projects for learning and practice.
+This repository contains basic Java projects .
 
 ## Projects
 1. Academic Performance Prediction
